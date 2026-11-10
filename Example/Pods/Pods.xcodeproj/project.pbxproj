@@ -26,7 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2533D0D86CBFE04331BC0B0526CD42AE /* PBXContainerItemProxy */ = {
+		77C4BA5E746ADA85C5E5CD603BBF9EBC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -37,22 +37,23 @@
 
 /* Begin PBXFileReference section */
 		042D5CDA59B5F0AFF9FC2FEED4F6B284 /* Pods-MercurySDK_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MercurySDK_Example"; path = Pods_MercurySDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		08DFFEEFF8FE08F4D312AB0E8AEDFDF7 /* AdSetQDNAdSDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "AdSetQDNAdSDK-xcframeworks.sh"; sourceTree = "<group>"; };
+		2116492EBB83695F698EE752AA37E518 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		2ADA76BA1892F5C173B28ADF8F9A8B4A /* Pods-MercurySDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MercurySDK_Example.release.xcconfig"; sourceTree = "<group>"; };
 		335A6D1B3C83B292E1FC424A461E1686 /* Pods-MercurySDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MercurySDK_Example.modulemap"; sourceTree = "<group>"; };
 		365A12BE1F3E79B26FFED07E8DF4BDDC /* Pods-MercurySDK_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MercurySDK_Example-umbrella.h"; sourceTree = "<group>"; };
 		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		441AF5ACD17C2431243322C7C2117FF8 /* AdSetQDNAdSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AdSetQDNAdSDK.debug.xcconfig; sourceTree = "<group>"; };
 		4A91AF78FA12A3546B922C08E002F6B9 /* Pods-MercurySDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MercurySDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		5E7A646203A49F26F7DE85C23A12050C /* Pods-MercurySDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MercurySDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		626687ABAEB4960B4A062CAEF3A8BE30 /* Pods-MercurySDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MercurySDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		668EABF694A0A0564F2E35ABAEAFCE91 /* Pods-MercurySDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MercurySDK_Example-dummy.m"; sourceTree = "<group>"; };
-		7E20F14169A41249BA8F7EA7BE33F29D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9547E7D6F80EE3090BBECC6162179B79 /* AdSetQDNAdSDK.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AdSetQDNAdSDK.xcframework; path = AdSetQDNAdSDK/AdSetQDNAdSDK.xcframework; sourceTree = "<group>"; };
+		6E904E5A4DC00FB526810B642B0F7E3F /* AdSetQDNAdSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = AdSetQDNAdSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A83A29B1853D57EF07B6143B2161CC5F /* AdSetQDNAdSDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "AdSetQDNAdSDK-xcframeworks.sh"; sourceTree = "<group>"; };
-		B089105FB734AA200998BF17E09A6859 /* AdSetQDNAdSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = AdSetQDNAdSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		BAE052F137448E4042659F68037C894D /* AdSetQDNAdSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AdSetQDNAdSDK.release.xcconfig; sourceTree = "<group>"; };
+		A14D7031DE2F206A695E450227451B6B /* AdSetQDNAdSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AdSetQDNAdSDK.release.xcconfig; sourceTree = "<group>"; };
+		A961039331B6832ABD6BA2DFE806392E /* AdSetQDNAdSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AdSetQDNAdSDK.debug.xcconfig; sourceTree = "<group>"; };
+		DEE7B194D6616D4EC15380A9E7691929 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		F153D462FE7125E64ECCCA7B11F2E04B /* Pods-MercurySDK_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MercurySDK_Example-Info.plist"; sourceTree = "<group>"; };
+		F67FEA39A339A3AB03C42D0AE48B5AFB /* AdSetQDNAdSDK.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AdSetQDNAdSDK.xcframework; path = AdSetQDNAdSDK/AdSetQDNAdSDK.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,21 +68,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		104F71A086F518D26AEBB0ADA016D925 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				B089105FB734AA200998BF17E09A6859 /* AdSetQDNAdSDK.podspec */,
-				7E20F14169A41249BA8F7EA7BE33F29D /* LICENSE */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		21250456D6CABB87E77C76B5894422A7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				042D5CDA59B5F0AFF9FC2FEED4F6B284 /* Pods-MercurySDK_Example */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		2329CF2E78443DE5906E1040FE4FCA8E /* AdSetQDNAdSDK */ = {
+			isa = PBXGroup;
+			children = (
+				3CAC510D3D5C9070371651974363D1BA /* Frameworks */,
+				3779BAC50E318DBC9C3214730BA6A4E2 /* Pod */,
+				632C47C3B608C75E3502BEF2124D304C /* Support Files */,
+			);
+			name = AdSetQDNAdSDK;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		30257B6D6C9F3E4AF0BD55BB41C1231B /* Pods-MercurySDK_Example */ = {
@@ -100,6 +103,16 @@
 			path = "Target Support Files/Pods-MercurySDK_Example";
 			sourceTree = "<group>";
 		};
+		3779BAC50E318DBC9C3214730BA6A4E2 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				6E904E5A4DC00FB526810B642B0F7E3F /* AdSetQDNAdSDK.podspec */,
+				DEE7B194D6616D4EC15380A9E7691929 /* LICENSE */,
+				2116492EBB83695F698EE752AA37E518 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		39AE4CAFDB23716966D8263A28461200 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -108,32 +121,29 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		8B3D28DC984D78A8E059EF6FBBACB386 /* Support Files */ = {
+		3CAC510D3D5C9070371651974363D1BA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A83A29B1853D57EF07B6143B2161CC5F /* AdSetQDNAdSDK-xcframeworks.sh */,
-				441AF5ACD17C2431243322C7C2117FF8 /* AdSetQDNAdSDK.debug.xcconfig */,
-				BAE052F137448E4042659F68037C894D /* AdSetQDNAdSDK.release.xcconfig */,
+				F67FEA39A339A3AB03C42D0AE48B5AFB /* AdSetQDNAdSDK.xcframework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		632C47C3B608C75E3502BEF2124D304C /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				08DFFEEFF8FE08F4D312AB0E8AEDFDF7 /* AdSetQDNAdSDK-xcframeworks.sh */,
+				A961039331B6832ABD6BA2DFE806392E /* AdSetQDNAdSDK.debug.xcconfig */,
+				A14D7031DE2F206A695E450227451B6B /* AdSetQDNAdSDK.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/AdSetQDNAdSDK";
 			sourceTree = "<group>";
 		};
-		A515CC8A8F2768105FCDDE3B7CE020CE /* AdSetQDNAdSDK */ = {
-			isa = PBXGroup;
-			children = (
-				DA63CDE8913CE866FA75ED99EE8324B4 /* Frameworks */,
-				104F71A086F518D26AEBB0ADA016D925 /* Pod */,
-				8B3D28DC984D78A8E059EF6FBBACB386 /* Support Files */,
-			);
-			name = AdSetQDNAdSDK;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		B6D3B797149757E64CAFF0A8896D4803 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				A515CC8A8F2768105FCDDE3B7CE020CE /* AdSetQDNAdSDK */,
+				2329CF2E78443DE5906E1040FE4FCA8E /* AdSetQDNAdSDK */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -153,14 +163,6 @@
 			isa = PBXGroup;
 			children = (
 				E4801F62A6B08CD9B5410329F1A18FDE /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		DA63CDE8913CE866FA75ED99EE8324B4 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				9547E7D6F80EE3090BBECC6162179B79 /* AdSetQDNAdSDK.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -199,7 +201,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				4A59AB64345ADE766D053825779D02A9 /* PBXTargetDependency */,
+				FE892886B5590A4ECF836CC47D040412 /* PBXTargetDependency */,
 			);
 			name = "Pods-MercurySDK_Example";
 			productName = Pods_MercurySDK_Example;
@@ -279,18 +281,18 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4A59AB64345ADE766D053825779D02A9 /* PBXTargetDependency */ = {
+		FE892886B5590A4ECF836CC47D040412 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = AdSetQDNAdSDK;
 			target = 6316F50F2D939A2E61855085C93E345E /* AdSetQDNAdSDK */;
-			targetProxy = 2533D0D86CBFE04331BC0B0526CD42AE /* PBXContainerItemProxy */;
+			targetProxy = 77C4BA5E746ADA85C5E5CD603BBF9EBC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		211925ECBE75AB95AED9EB6B160427D9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 441AF5ACD17C2431243322C7C2117FF8 /* AdSetQDNAdSDK.debug.xcconfig */;
+			baseConfigurationReference = A961039331B6832ABD6BA2DFE806392E /* AdSetQDNAdSDK.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -305,7 +307,7 @@
 		};
 		3C9B112A7A2171357D045293D830DA14 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BAE052F137448E4042659F68037C894D /* AdSetQDNAdSDK.release.xcconfig */;
+			baseConfigurationReference = A14D7031DE2F206A695E450227451B6B /* AdSetQDNAdSDK.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
