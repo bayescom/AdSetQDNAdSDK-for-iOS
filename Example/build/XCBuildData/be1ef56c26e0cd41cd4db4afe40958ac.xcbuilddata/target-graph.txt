@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Pods-MercurySDK_Example' in project 'Pods'
+➜ Explicit dependency on target 'MercurySDK' in project 'Pods'
+Target 'MercurySDK' in project 'Pods' (no dependencies)

@@ -1,0 +1,49 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98828b130d0cfa666a153f4aa7cd28646a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bd41f177c646922192d660de8be5084e"
+    }
+  ],
+  "containerPath" : "/Users/guangyao/Documents/Bayes-SDK/BayesSDK-for-iOS/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/guangyao/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/guangyao/Library/Developer/Xcode/DerivedData/Pods-fpszjeuzaeyngwbmyeijhcqstblm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/guangyao/Library/Developer/Xcode/DerivedData/Pods-fpszjeuzaeyngwbmyeijhcqstblm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
